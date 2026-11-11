@@ -1,0 +1,244 @@
+{
+  "schemaVersion": "2026.11",
+  "country": "FR",
+  "language": "fr",
+  "title": "Étude Méthodologique et Jeu de Données Ouvert 2026 : Logiciels et Applications Chantier pour Artisans du BTP en France",
+  "publisher": "Observatoire Français des Logiciels Artisans & BTP",
+  "author": {
+    "name": "Laurent Moreau",
+    "role": "Ingénieur BTP & Auditeur Logiciels (Lyon)"
+  },
+  "canonicalUrl": "https://logicielbatimentartisan.fr/etude-donnees-ouvertes-2026/",
+  "publishedAt": "2026-11-12",
+  "license": "CC-BY-4.0",
+  "methodology": {
+    "pureVerticalScope": true,
+    "generalistAccountingExcluded": true,
+    "totalFunctionsTested": 36,
+    "pricingRule": "Complete 1-user plan with all field & office modules enabled, plus verified additional technician cost"
+  },
+  "regulatoryReference": {
+    "title": "Cadre Réglementaire Français : Réforme de la Facturation Électronique (Factur-X / PDP 2026–2027) et Mentions BTP",
+    "authority": "Direction Générale des Finances Publiques (DGFiP) · Ministère de l'Économie",
+    "officialUrl": "https://www.impots.gouv.fr"
+  },
+  "results": [
+    {
+      "rank": 1,
+      "id": "avantium",
+      "name": "Avantium",
+      "evaluatedPlan": "Pro Tout Inclus",
+      "overallScore": 9,
+      "subScores": {
+        "movil": 9.1,
+        "facil": 9,
+        "precio": 9.2,
+        "pc": 8.9,
+        "tiendas": 8.9
+      },
+      "mobileFeatures": 33,
+      "desktopFeatures": 33,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": 39,
+        "annual1UserMonthlyEq": 33,
+        "extraUserMonthly": 12,
+        "team3Monthly": 63,
+        "team5Monthly": 87,
+        "team10Monthly": 147,
+        "tco12MonthsTeam5": 1044
+      },
+      "ratings": {
+        "appStoreIos": 4.9,
+        "googlePlayAndroid": 4.9
+      },
+      "onboardingTime": "1–2 jours"
+    },
+    {
+      "rank": 2,
+      "id": "organilog",
+      "name": "Organilog",
+      "evaluatedPlan": "Business tous modules",
+      "overallScore": 7.6,
+      "subScores": {
+        "movil": 7.2,
+        "pc": 8.1,
+        "facil": 7.1,
+        "precio": 7.8,
+        "tiendas": 8.2
+      },
+      "mobileFeatures": 19,
+      "desktopFeatures": 27,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": 79,
+        "annual1UserMonthlyEq": 69,
+        "extraUserMonthly": 39,
+        "team3Monthly": 157,
+        "team5Monthly": 235,
+        "team10Monthly": 430,
+        "tco12MonthsTeam5": 2820
+      },
+      "ratings": {
+        "appStoreIos": 4.9,
+        "googlePlayAndroid": 4.1
+      },
+      "onboardingTime": "1 semaine"
+    },
+    {
+      "rank": 3,
+      "id": "costructor",
+      "name": "Costructor",
+      "evaluatedPlan": "Formule Premium",
+      "overallScore": 7.2,
+      "subScores": {
+        "movil": 6.1,
+        "pc": 6.9,
+        "facil": 7.8,
+        "precio": 8.1,
+        "tiendas": 7.5
+      },
+      "mobileFeatures": 11,
+      "desktopFeatures": 16,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": 60,
+        "annual1UserMonthlyEq": 50,
+        "extraUserMonthly": 10,
+        "team3Monthly": 80,
+        "team5Monthly": 100,
+        "team10Monthly": 150,
+        "tco12MonthsTeam5": 1200
+      },
+      "ratings": {
+        "appStoreIos": null,
+        "googlePlayAndroid": 4.4
+      },
+      "onboardingTime": "2–3 jours"
+    },
+    {
+      "rank": 4,
+      "id": "obat",
+      "name": "Obat",
+      "evaluatedPlan": "Booster + devis vocal",
+      "overallScore": 7,
+      "subScores": {
+        "movil": 6.7,
+        "pc": 7.3,
+        "facil": 6.9,
+        "precio": 7.3,
+        "tiendas": 6.7
+      },
+      "mobileFeatures": 15,
+      "desktopFeatures": 20,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": 124,
+        "annual1UserMonthlyEq": 114,
+        "extraUserMonthly": 20,
+        "team3Monthly": 164,
+        "team5Monthly": 204,
+        "team10Monthly": 304,
+        "tco12MonthsTeam5": 2448
+      },
+      "ratings": {
+        "appStoreIos": 3.3,
+        "googlePlayAndroid": 3.6
+      },
+      "onboardingTime": "1–2 semaines"
+    },
+    {
+      "rank": 5,
+      "id": "batappli",
+      "name": "Batappli",
+      "evaluatedPlan": "Entreprise complet",
+      "overallScore": 6.5,
+      "subScores": {
+        "movil": 5.6,
+        "pc": 7,
+        "facil": 6.4,
+        "precio": 7.3,
+        "tiendas": 7
+      },
+      "mobileFeatures": 7,
+      "desktopFeatures": 17,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": 119,
+        "annual1UserMonthlyEq": 99,
+        "extraUserMonthly": 49,
+        "team3Monthly": 217,
+        "team5Monthly": 315,
+        "team10Monthly": 560,
+        "tco12MonthsTeam5": 3780
+      },
+      "ratings": {
+        "appStoreIos": 3.8,
+        "googlePlayAndroid": 3.5
+      },
+      "onboardingTime": "2–3 semaines"
+    },
+    {
+      "rank": 6,
+      "id": "praxedo",
+      "name": "Praxedo",
+      "evaluatedPlan": "Sur devis",
+      "overallScore": 6.5,
+      "subScores": {
+        "movil": 6.5,
+        "pc": 7.3,
+        "facil": 6.1,
+        "precio": 5.6,
+        "tiendas": 7.5
+      },
+      "mobileFeatures": 14,
+      "desktopFeatures": 20,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": null,
+        "annual1UserMonthlyEq": null,
+        "extraUserMonthly": null,
+        "team3Monthly": null,
+        "team5Monthly": null,
+        "team10Monthly": null,
+        "tco12MonthsTeam5": null
+      },
+      "ratings": {
+        "appStoreIos": 4.6,
+        "googlePlayAndroid": 3.4
+      },
+      "onboardingTime": "2–6 semaines"
+    },
+    {
+      "rank": 7,
+      "id": "ebp",
+      "name": "EBP Bâtiment",
+      "evaluatedPlan": "Élite / PME",
+      "overallScore": 6.2,
+      "subScores": {
+        "movil": 5.4,
+        "pc": 7.2,
+        "facil": 6.3,
+        "precio": 7.3,
+        "tiendas": 5.4
+      },
+      "mobileFeatures": 6,
+      "desktopFeatures": 19,
+      "totalFeatures": 36,
+      "pricingEur": {
+        "monthly1User": 129,
+        "annual1UserMonthlyEq": 105,
+        "extraUserMonthly": 55,
+        "team3Monthly": 239,
+        "team5Monthly": 349,
+        "team10Monthly": 624,
+        "tco12MonthsTeam5": 4188
+      },
+      "ratings": {
+        "appStoreIos": 2.4,
+        "googlePlayAndroid": 2.6
+      },
+      "onboardingTime": "2–4 semaines"
+    }
+  ]
+}
