@@ -2,6 +2,7 @@
   "schemaVersion": "2026.11",
   "country": "FR",
   "language": "fr",
+  "currency": "EUR",
   "title": "Étude Méthodologique et Jeu de Données Ouvert 2026 : Logiciels et Applications Chantier pour Artisans du BTP en France",
   "publisher": "Observatoire Français des Logiciels Artisans & BTP",
   "author": {
@@ -39,7 +40,8 @@
       "mobileFeatures": 33,
       "desktopFeatures": 33,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 39,
         "annual1UserMonthlyEq": 33,
         "extraUserMonthly": 12,
@@ -70,7 +72,8 @@
       "mobileFeatures": 19,
       "desktopFeatures": 27,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 79,
         "annual1UserMonthlyEq": 69,
         "extraUserMonthly": 39,
@@ -101,7 +104,8 @@
       "mobileFeatures": 11,
       "desktopFeatures": 16,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 60,
         "annual1UserMonthlyEq": 50,
         "extraUserMonthly": 10,
@@ -132,7 +136,8 @@
       "mobileFeatures": 15,
       "desktopFeatures": 20,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 124,
         "annual1UserMonthlyEq": 114,
         "extraUserMonthly": 20,
@@ -163,7 +168,8 @@
       "mobileFeatures": 7,
       "desktopFeatures": 17,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 119,
         "annual1UserMonthlyEq": 99,
         "extraUserMonthly": 49,
@@ -194,7 +200,8 @@
       "mobileFeatures": 14,
       "desktopFeatures": 20,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": null,
         "annual1UserMonthlyEq": null,
         "extraUserMonthly": null,
@@ -225,7 +232,8 @@
       "mobileFeatures": 6,
       "desktopFeatures": 19,
       "totalFeatures": 36,
-      "pricingEur": {
+      "pricing": {
+        "currency": "EUR",
         "monthly1User": 129,
         "annual1UserMonthlyEq": 105,
         "extraUserMonthly": 55,
