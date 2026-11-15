@@ -168,10 +168,12 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Entretien de chaudière obligatoire](https://logicielbatimentartisan.fr/demarches/entretien-chaudiere/): Ce que mesure le chauffagiste et l'attestation
 - [PPSPS](https://logicielbatimentartisan.fr/demarches/ppsps/): Quand il en faut un, le délai et le contenu
 - [Repérage amiante avant travaux](https://logicielbatimentartisan.fr/demarches/reperage-amiante-avant-travaux/): Qui le commande, et quand l'artisan peut commencer
+- [Fiche d'intervention fluides](https://logicielbatimentartisan.fr/demarches/fiche-intervention-fluides/): Le cerfa 15497*04 : qui signe, qui le garde
 
 ### Normes
 
 - [Garantie de parfait achèvement](https://logicielbatimentartisan.fr/normes/garantie-parfait-achevement/): 1 an, 2 ans, 10 ans : laquelle joue ?
+- [Réglementation des fluides frigorigènes](https://logicielbatimentartisan.fr/normes/fluides-frigorigenes/): Contrôles d'étanchéité et obligations
 - [Guide de la facture électronique](https://logicielbatimentartisan.fr/facture-electronique/): Quels logiciels la font et ce qui change
 - [Test de la facture électronique](https://logicielbatimentartisan.fr/verificateur-factur-x-2026-artisan-btp/): Ta facturation est-elle prête ?
 
@@ -181,4 +183,5 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [AIPR](https://logicielbatimentartisan.fr/formation/aipr/): Qui la doit avoir, quel profil, combien de temps
 - [CACES nacelle (R486)](https://logicielbatimentartisan.fr/formation/caces-nacelle/): Quelle catégorie, et l'autorisation de conduite
 - [Travail en hauteur](https://logicielbatimentartisan.fr/formation/travail-en-hauteur/): Garde-corps, échelle, harnais : la règle et la formation
+- [Attestation fluides frigorigènes](https://logicielbatimentartisan.fr/formation/attestation-capacite-fluides/): Les nouvelles catégories au 1er janvier 2027
 - [Formation amiante SS4](https://logicielbatimentartisan.fr/formation/formation-amiante-ss4/): Durées minimales et recyclage tous les 3 ans
