@@ -117,6 +117,10 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Plateformes agréées](https://logicielbatimentartisan.fr/logiciels/plateformes-agreees-facture-electronique/): La liste officielle, avec un moteur de recherche
 - [Chorus Pro pour l'artisan](https://logicielbatimentartisan.fr/logiciels/chorus-pro-artisan/): Facturer une mairie et se faire payer à temps
 - [Logiciel de métré](https://logicielbatimentartisan.fr/logiciels/logiciel-metre-batiment/): Le métré d'une pièce, sans logiciel
+- [Pointage GPS sur chantier](https://logicielbatimentartisan.fr/pointage-gps-chantier/): Les logiciels qui le font sur le téléphone
+- [Scanner les tickets de chantier](https://logicielbatimentartisan.fr/scanner-tickets-chantier/): Les logiciels qui lisent les tickets
+- [Situations de travaux](https://logicielbatimentartisan.fr/situations-de-travaux/): Les logiciels qui les font
+- [Alternatives à Organilog](https://logicielbatimentartisan.fr/alternatives-organilog/): Les logiciels à comparer
 
 ### Prix
 
