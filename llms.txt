@@ -195,8 +195,14 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 ### Aides
 
+- [MaPrimeRénov' 2026](https://logicielbatimentartisan.fr/aides/maprimerenov/): Ce qui reste par geste, et le rôle de l'artisan RGE
+- [Prime CEE](https://logicielbatimentartisan.fr/aides/cee-prime-energie/): L'ordre des dates et la prime déduite de la facture
 - [Éco-PTZ](https://logicielbatimentartisan.fr/aides/eco-ptz/): Ce que fait l'artisan : RGE, devis, formulaire
 - [Label RGE](https://logicielbatimentartisan.fr/aides/label-rge/): Le dossier à préparer, pièce par pièce
+- [Aides pompe à chaleur 2026](https://logicielbatimentartisan.fr/aides/aide-pompe-a-chaleur/): Toutes les aides additionnées, et le reste à payer
+- [Aides panneaux solaires 2026](https://logicielbatimentartisan.fr/aides/aide-panneaux-solaires/): Prime supprimée, TVA à 5,5 % et rachat à 1,1 ct
+- [MaPrimeAdapt'](https://logicielbatimentartisan.fr/aides/maprimeadapt/): 70 % ou 50 % des travaux, et le rôle de l'artisan
+- [Coup de pouce chauffage](https://logicielbatimentartisan.fr/aides/coup-de-pouce-chauffage/): Plus de montant fixe : la formule, et ce que dit la facture
 
 ### Démarches
 
