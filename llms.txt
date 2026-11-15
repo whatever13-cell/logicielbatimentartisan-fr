@@ -107,6 +107,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 ### Logiciels
 
 - [Avantium](https://logicielbatimentartisan.fr/logiciels/avantium/): L'application pour artisans : ce qu'elle fait et son prix
+- [Chorus Pro pour l'artisan](https://logicielbatimentartisan.fr/logiciels/chorus-pro-artisan/): Facturer une mairie et se faire payer à temps
 
 ### Prix
 
@@ -138,6 +139,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 - [Chambre des métiers](https://logicielbatimentartisan.fr/entreprise/chambre-des-metiers/): S'installer artisan : qualification et RNE
 - [Garantie décennale](https://logicielbatimentartisan.fr/entreprise/garantie-decennale/): Qui la doit, ce qu'elle couvre et jusqu'à quand
+- [Retenue de garantie](https://logicielbatimentartisan.fr/entreprise/retenue-de-garantie/): 5 % au plus, rendue un an après la réception
 - [Injonction de payer](https://logicielbatimentartisan.fr/entreprise/injonction-de-payer/): Récupérer une facture impayée, sans avocat
 - [Devis obligatoire](https://logicielbatimentartisan.fr/entreprise/devis-obligatoire/): Pour quels travaux, et ce qu'il doit dire
 - [Carte BTP](https://logicielbatimentartisan.fr/entreprise/carte-btp/): Qui la demande, combien elle coûte, le risque
