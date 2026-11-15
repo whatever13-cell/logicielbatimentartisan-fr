@@ -128,6 +128,11 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Salaire couvreur](https://logicielbatimentartisan.fr/prix/salaire-couvreur/): Le minimum selon le diplôme et la région
 - [Salaire carreleur](https://logicielbatimentartisan.fr/prix/salaire-carreleur/): Le minimum selon le diplôme et la région
 - [Salaire peintre en bâtiment](https://logicielbatimentartisan.fr/prix/salaire-peintre-batiment/): Le minimum selon le diplôme et la région
+- [Prix d'une pompe à chaleur](https://logicielbatimentartisan.fr/prix/prix-pompe-a-chaleur/): Air/eau, air/air, géothermie, et les aides 2026
+- [Prix d'une climatisation](https://logicielbatimentartisan.fr/prix/prix-climatisation/): Réversible ou non : prix, TVA et aides
+- [Prix d'un poêle à granulés](https://logicielbatimentartisan.fr/prix/prix-poele-a-granules/): Appareil, pose, conduit, et les aides de 2026
+- [Prix d'une chaudière gaz](https://logicielbatimentartisan.fr/prix/prix-chaudiere-gaz/): 2 000 à 4 000 €, TVA à 20 % et plus d'aide
+- [Prix d'une chaudière à granulés](https://logicielbatimentartisan.fr/prix/prix-chaudiere-granules/): 7 300 à 16 000 € HT, pose et aides 2026
 - [Index BT01](https://logicielbatimentartisan.fr/prix/indice-bt01/): La valeur 2026 et la révision de ton prix
 
 ### Conventions
