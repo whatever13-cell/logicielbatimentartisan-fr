@@ -145,6 +145,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [CFE de l'artisan](https://logicielbatimentartisan.fr/fiscalite/cfe-artisan/): Exonéré s'il travaille seul, sinon réduite
 - [Mentions obligatoires d'une facture](https://logicielbatimentartisan.fr/fiscalite/mentions-obligatoires-facture/): Celles du bâtiment et les 4 nouvelles de 2027
 - [Facture électronique obligatoire](https://logicielbatimentartisan.fr/fiscalite/facture-electronique-obligatoire/): Recevoir en 2026, émettre en 2027
+- [Code APE du bâtiment](https://logicielbatimentartisan.fr/fiscalite/code-ape-batiment/): Ton code actuel et ton code NAF 2025
 - [Versement libératoire](https://logicielbatimentartisan.fr/fiscalite/versement-liberatoire/): Y ai-je droit, combien, jusqu'à quand
 
 ### Entreprise
@@ -156,6 +157,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Injonction de payer](https://logicielbatimentartisan.fr/entreprise/injonction-de-payer/): Récupérer une facture impayée, sans avocat
 - [Devis obligatoire](https://logicielbatimentartisan.fr/entreprise/devis-obligatoire/): Pour quels travaux, et ce qu'il doit dire
 - [Carte BTP](https://logicielbatimentartisan.fr/entreprise/carte-btp/): Qui la demande, combien elle coûte, le risque
+- [Qualibat](https://logicielbatimentartisan.fr/entreprise/qualibat/): Critères, probatoire, calendrier et prix
 - [Acompte ou arrhes sur un devis](https://logicielbatimentartisan.fr/entreprise/acompte-devis/): Ce que devient l'argent si l'un renonce
 
 ### Aides
