@@ -170,6 +170,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 - [Révision de prix BT01](https://logicielbatimentartisan.fr/prix/indice-bt01/): Le calcul avec l'indice INSEE
 - [Cotisations URSSAF micro-entrepreneur](https://logicielbatimentartisan.fr/calculateurs/cotisations-urssaf-micro-entrepreneur/): Main-d'œuvre à 21,2 %, matériel à 12,3 %
+- [Section de câble électrique](https://logicielbatimentartisan.fr/calculateurs/section-cable-electrique/): Par circuit, selon la NF C 15-100
 - [TVA des travaux](https://logicielbatimentartisan.fr/fiscalite/tva-travaux-10-5-5/): Le bon taux et le montant TTC
 - [Calcul de la retenue de garantie](https://logicielbatimentartisan.fr/entreprise/retenue-de-garantie/): 5 % des acomptes, la date de libération
 - [Prix réel des logiciels](https://logicielbatimentartisan.fr/calculateur-tarif-reel-1-personne-artisan-btp-2026/): Ce que tu paies tout compris
@@ -223,6 +224,11 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 ### Normes
 
+- [NF C 15-100](https://logicielbatimentartisan.fr/normes/nf-c-15-100/): Ce qu'elle exige pièce par pièce depuis la révision de 2024
+- [NF C 15-100, salle de bain](https://logicielbatimentartisan.fr/normes/nf-c-15-100-salle-de-bain/): Les volumes 0, 1 et 2 : ce qui va où
+- [NF C 15-100, cuisine](https://logicielbatimentartisan.fr/normes/nf-c-15-100-cuisine/): Prises, circuits spécialisés et plaques
+- [DTU par métier](https://logicielbatimentartisan.fr/normes/dtu/): Les NF DTU en vigueur en 2026, par métier
+- [RE2020](https://logicielbatimentartisan.fr/normes/re2020/): Ce qui change sur le chantier, et depuis mai 2026 l'atelier
 - [Garantie de parfait achèvement](https://logicielbatimentartisan.fr/normes/garantie-parfait-achevement/): 1 an, 2 ans, 10 ans : laquelle joue ?
 - [Réglementation des fluides frigorigènes](https://logicielbatimentartisan.fr/normes/fluides-frigorigenes/): Contrôles d'étanchéité et obligations
 - [Guide de la facture électronique](https://logicielbatimentartisan.fr/facture-electronique/): Quels logiciels la font et ce qui change
@@ -240,6 +246,10 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Travail en hauteur](https://logicielbatimentartisan.fr/formation/travail-en-hauteur/): Garde-corps, échelle, harnais : la règle et la formation
 - [Attestation fluides frigorigènes](https://logicielbatimentartisan.fr/formation/attestation-capacite-fluides/): Les nouvelles catégories au 1er janvier 2027
 - [Formation amiante SS4](https://logicielbatimentartisan.fr/formation/formation-amiante-ss4/): Durées minimales et recyclage tous les 3 ans
+
+### Pannes
+
+- [F28 Saunier Duval](https://logicielbatimentartisan.fr/pannes/f28-saunier-duval/): Défaut d'allumage : les réarmements et ce que vérifie le technicien
 
 ### Fournisseurs
 
