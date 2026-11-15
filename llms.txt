@@ -116,6 +116,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 ### Modèles
 
+- [Procès-verbal de réception](https://logicielbatimentartisan.fr/modeles/proces-verbal-reception-travaux/): Avec ou sans réserves, et les dates qu'il fixe
 - [Mise en demeure : facture impayée](https://logicielbatimentartisan.fr/modeles/mise-en-demeure-facture-impayee/): La lettre, avec les pénalités calculées
 
 ### Calculateurs
