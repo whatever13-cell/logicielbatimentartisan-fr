@@ -220,3 +220,10 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Travail en hauteur](https://logicielbatimentartisan.fr/formation/travail-en-hauteur/): Garde-corps, échelle, harnais : la règle et la formation
 - [Attestation fluides frigorigènes](https://logicielbatimentartisan.fr/formation/attestation-capacite-fluides/): Les nouvelles catégories au 1er janvier 2027
 - [Formation amiante SS4](https://logicielbatimentartisan.fr/formation/formation-amiante-ss4/): Durées minimales et recyclage tous les 3 ans
+
+### Fournisseurs
+
+- [Négoces à Paris](https://logicielbatimentartisan.fr/fournisseurs/grossiste-paris/): Liste ouverte avec carte, par type
+- [Négoces à Lyon](https://logicielbatimentartisan.fr/fournisseurs/grossiste-lyon/): Liste ouverte avec carte, par type
+- [Négoces à Marseille](https://logicielbatimentartisan.fr/fournisseurs/grossiste-marseille/): Liste ouverte avec carte, par type
+- [Négoces à Toulouse](https://logicielbatimentartisan.fr/fournisseurs/grossiste-toulouse/): Liste ouverte avec carte, par type
