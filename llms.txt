@@ -130,10 +130,12 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 ### Entreprise
 
+- [Chambre des métiers](https://logicielbatimentartisan.fr/entreprise/chambre-des-metiers/): S'installer artisan : qualification et RNE
 - [Garantie décennale](https://logicielbatimentartisan.fr/entreprise/garantie-decennale/): Qui la doit, ce qu'elle couvre et jusqu'à quand
 - [Injonction de payer](https://logicielbatimentartisan.fr/entreprise/injonction-de-payer/): Récupérer une facture impayée, sans avocat
 - [Devis obligatoire](https://logicielbatimentartisan.fr/entreprise/devis-obligatoire/): Pour quels travaux, et ce qu'il doit dire
 - [Carte BTP](https://logicielbatimentartisan.fr/entreprise/carte-btp/): Qui la demande, combien elle coûte, le risque
+- [Acompte ou arrhes sur un devis](https://logicielbatimentartisan.fr/entreprise/acompte-devis/): Ce que devient l'argent si l'un renonce
 
 ### Aides
 
@@ -147,5 +149,10 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 ### Normes
 
+- [Garantie de parfait achèvement](https://logicielbatimentartisan.fr/normes/garantie-parfait-achevement/): 1 an, 2 ans, 10 ans : laquelle joue ?
 - [Guide de la facture électronique](https://logicielbatimentartisan.fr/facture-electronique/): Quels logiciels la font et ce qui change
 - [Test de la facture électronique](https://logicielbatimentartisan.fr/verificateur-factur-x-2026-artisan-btp/): Ta facturation est-elle prête ?
+
+### Formation
+
+- [Habilitation électrique](https://logicielbatimentartisan.fr/formation/habilitation-electrique/): Quel symbole pour quel métier
