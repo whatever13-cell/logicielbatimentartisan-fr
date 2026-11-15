@@ -254,6 +254,8 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 ### Pannes
 
 - [F28 Saunier Duval](https://logicielbatimentartisan.fr/pannes/f28-saunier-duval/): Défaut d'allumage : les réarmements et ce que vérifie le technicien
+- [Codes erreur Chaffoteaux](https://logicielbatimentartisan.fr/pannes/code-erreur-chaffoteaux/): 501, 108, 304… la table de la notice
+- [Codes erreur De Dietrich](https://logicielbatimentartisan.fr/pannes/code-erreur-de-dietrich/): A, H ou E : avertissement, blocage ou verrouillage
 
 ### Fournisseurs
 
