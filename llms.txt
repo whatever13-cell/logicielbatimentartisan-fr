@@ -137,8 +137,12 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Prix des panneaux solaires](https://logicielbatimentartisan.fr/prix/prix-panneaux-solaires/): Par kWc, TVA comprise, sans la prime supprimée
 - [Prix d'un poêle à granulés](https://logicielbatimentartisan.fr/prix/prix-poele-a-granules/): Appareil, pose, conduit, et les aides de 2026
 - [Prix d'une chaudière gaz](https://logicielbatimentartisan.fr/prix/prix-chaudiere-gaz/): 2 000 à 4 000 €, TVA à 20 % et plus d'aide
+- [Prix de l'isolation des combles](https://logicielbatimentartisan.fr/prix/prix-isolation-combles/): Perdus ou aménagés, au m², pose comprise
+- [Prix de l'isolation par l'extérieur](https://logicielbatimentartisan.fr/prix/prix-isolation-exterieure/): Sous enduit ou sous bardage, au m²
 - [Prix d'une chaudière à granulés](https://logicielbatimentartisan.fr/prix/prix-chaudiere-granules/): 7 300 à 16 000 € HT, pose et aides 2026
 - [Index BT01](https://logicielbatimentartisan.fr/prix/indice-bt01/): La valeur 2026 et la révision de ton prix
+- [Prix d'un chauffe-eau thermodynamique](https://logicielbatimentartisan.fr/prix/prix-chauffe-eau-thermodynamique/): L'appareil, la pose et la TVA à 5,5 %
+- [Prix d'une fenêtre PVC posée](https://logicielbatimentartisan.fr/prix/prix-fenetre-pvc/): Par taille, en remplacement ou en création
 
 ### Conventions
 
