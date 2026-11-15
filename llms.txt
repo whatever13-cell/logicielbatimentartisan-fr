@@ -166,6 +166,8 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Déclaration préalable de travaux](https://logicielbatimentartisan.fr/demarches/declaration-prealable-travaux/): Les chantiers concernés et quand commencer
 - [DT-DICT](https://logicielbatimentartisan.fr/demarches/dict-dt/): Qui déclare, les délais, quand renouveler
 - [Entretien de chaudière obligatoire](https://logicielbatimentartisan.fr/demarches/entretien-chaudiere/): Ce que mesure le chauffagiste et l'attestation
+- [PPSPS](https://logicielbatimentartisan.fr/demarches/ppsps/): Quand il en faut un, le délai et le contenu
+- [Repérage amiante avant travaux](https://logicielbatimentartisan.fr/demarches/reperage-amiante-avant-travaux/): Qui le commande, et quand l'artisan peut commencer
 
 ### Normes
 
@@ -176,3 +178,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 ### Formation
 
 - [Habilitation électrique](https://logicielbatimentartisan.fr/formation/habilitation-electrique/): Quel symbole pour quel métier
+- [AIPR](https://logicielbatimentartisan.fr/formation/aipr/): Qui la doit avoir, quel profil, combien de temps
+- [CACES nacelle (R486)](https://logicielbatimentartisan.fr/formation/caces-nacelle/): Quelle catégorie, et l'autorisation de conduite
+- [Travail en hauteur](https://logicielbatimentartisan.fr/formation/travail-en-hauteur/): Garde-corps, échelle, harnais : la règle et la formation
+- [Formation amiante SS4](https://logicielbatimentartisan.fr/formation/formation-amiante-ss4/): Durées minimales et recyclage tous les 3 ans
