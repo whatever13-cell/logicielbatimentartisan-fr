@@ -130,8 +130,10 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 ### Calculateurs
 
+- [Révision de prix BT01](https://logicielbatimentartisan.fr/prix/indice-bt01/): Le calcul avec l'indice INSEE
 - [Cotisations URSSAF micro-entrepreneur](https://logicielbatimentartisan.fr/calculateurs/cotisations-urssaf-micro-entrepreneur/): Main-d'œuvre à 21,2 %, matériel à 12,3 %
 - [TVA des travaux](https://logicielbatimentartisan.fr/fiscalite/tva-travaux-10-5-5/): Le bon taux et le montant TTC
+- [Calcul de la retenue de garantie](https://logicielbatimentartisan.fr/entreprise/retenue-de-garantie/): 5 % des acomptes, la date de libération
 - [Prix réel des logiciels](https://logicielbatimentartisan.fr/calculateur-tarif-reel-1-personne-artisan-btp-2026/): Ce que tu paies tout compris
 
 ### Fiscalité
@@ -147,6 +149,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 ### Entreprise
 
+- [Devenir artisan du bâtiment](https://logicielbatimentartisan.fr/entreprise/devenir-artisan/): La qualification, métier par métier
 - [Chambre des métiers](https://logicielbatimentartisan.fr/entreprise/chambre-des-metiers/): S'installer artisan : qualification et RNE
 - [Garantie décennale](https://logicielbatimentartisan.fr/entreprise/garantie-decennale/): Qui la doit, ce qu'elle couvre et jusqu'à quand
 - [Retenue de garantie](https://logicielbatimentartisan.fr/entreprise/retenue-de-garantie/): 5 % au plus, rendue un an après la réception
@@ -163,9 +166,11 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 ### Démarches
 
 - [Attestation Consuel](https://logicielbatimentartisan.fr/demarches/attestation-consuel/): Quand elle est obligatoire et laquelle choisir
+- [Certificat de conformité gaz](https://logicielbatimentartisan.fr/demarches/certificat-conformite-gaz/): Qualigaz, Dekra, Copraudit : quand et comment
 - [Déclaration préalable de travaux](https://logicielbatimentartisan.fr/demarches/declaration-prealable-travaux/): Les chantiers concernés et quand commencer
 - [DT-DICT](https://logicielbatimentartisan.fr/demarches/dict-dt/): Qui déclare, les délais, quand renouveler
 - [Entretien de chaudière obligatoire](https://logicielbatimentartisan.fr/demarches/entretien-chaudiere/): Ce que mesure le chauffagiste et l'attestation
+- [Entretien clim et PAC](https://logicielbatimentartisan.fr/demarches/entretien-climatisation/): Tous les 2 ans de 4 à 70 kW, et l'attestation
 - [PPSPS](https://logicielbatimentartisan.fr/demarches/ppsps/): Quand il en faut un, le délai et le contenu
 - [Repérage amiante avant travaux](https://logicielbatimentartisan.fr/demarches/reperage-amiante-avant-travaux/): Qui le commande, et quand l'artisan peut commencer
 - [Fiche d'intervention fluides](https://logicielbatimentartisan.fr/demarches/fiche-intervention-fluides/): Le cerfa 15497*04 : qui signe, qui le garde
@@ -182,6 +187,10 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Habilitation électrique](https://logicielbatimentartisan.fr/formation/habilitation-electrique/): Quel symbole pour quel métier
 - [AIPR](https://logicielbatimentartisan.fr/formation/aipr/): Qui la doit avoir, quel profil, combien de temps
 - [CACES nacelle (R486)](https://logicielbatimentartisan.fr/formation/caces-nacelle/): Quelle catégorie, et l'autorisation de conduite
+- [CAP électricien](https://logicielbatimentartisan.fr/formation/cap-electricien/): La fiche RNCP38401, bloc par bloc
+- [CAP plombier](https://logicielbatimentartisan.fr/formation/cap-plombier/): Le CAP monteur en installations sanitaires
+- [Devenir électricien](https://logicielbatimentartisan.fr/formation/devenir-electricien/): Diplôme, habilitation et installation
+- [Devenir plombier](https://logicielbatimentartisan.fr/formation/devenir-plombier/): Diplôme, gaz et fluides selon ce que tu fais
 - [Travail en hauteur](https://logicielbatimentartisan.fr/formation/travail-en-hauteur/): Garde-corps, échelle, harnais : la règle et la formation
 - [Attestation fluides frigorigènes](https://logicielbatimentartisan.fr/formation/attestation-capacite-fluides/): Les nouvelles catégories au 1er janvier 2027
 - [Formation amiante SS4](https://logicielbatimentartisan.fr/formation/formation-amiante-ss4/): Durées minimales et recyclage tous les 3 ans
