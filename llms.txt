@@ -108,6 +108,11 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 - [Avantium](https://logicielbatimentartisan.fr/logiciels/avantium/): L'application pour artisans : ce qu'elle fait et son prix
 
+### Prix
+
+- [Taux horaire de l'artisan](https://logicielbatimentartisan.fr/prix/taux-horaire-artisan/): Ton prix minimum avec tes vraies charges
+- [Index BT01](https://logicielbatimentartisan.fr/prix/indice-bt01/): La valeur 2026 et la révision de ton prix
+
 ### Modèles
 
 - [Mise en demeure : facture impayée](https://logicielbatimentartisan.fr/modeles/mise-en-demeure-facture-impayee/): La lettre, avec les pénalités calculées
@@ -140,6 +145,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 ### Aides
 
 - [Éco-PTZ](https://logicielbatimentartisan.fr/aides/eco-ptz/): Ce que fait l'artisan : RGE, devis, formulaire
+- [Label RGE](https://logicielbatimentartisan.fr/aides/label-rge/): Le dossier à préparer, pièce par pièce
 
 ### Démarches
 
