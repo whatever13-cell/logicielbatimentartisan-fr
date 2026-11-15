@@ -108,6 +108,10 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 - [Avantium](https://logicielbatimentartisan.fr/logiciels/avantium/): L'application pour artisans : ce qu'elle fait et son prix
 
+### Modèles
+
+- [Mise en demeure : facture impayée](https://logicielbatimentartisan.fr/modeles/mise-en-demeure-facture-impayee/): La lettre, avec les pénalités calculées
+
 ### Calculateurs
 
 - [Cotisations URSSAF micro-entrepreneur](https://logicielbatimentartisan.fr/calculateurs/cotisations-urssaf-micro-entrepreneur/): Main-d'œuvre à 21,2 %, matériel à 12,3 %
@@ -120,6 +124,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Autoliquidation de la TVA](https://logicielbatimentartisan.fr/fiscalite/autoliquidation-tva-sous-traitance/): Le sous-traitant facture HT, avec la mention
 - [TVA de l'auto-entrepreneur](https://logicielbatimentartisan.fr/fiscalite/tva-auto-entrepreneur/): Seuils 2026 : 37 500 € et 41 250 €
 - [Plafond micro-entreprise 2026](https://logicielbatimentartisan.fr/fiscalite/plafond-micro-entreprise/): 83 600 € en services, 203 100 € en vente
+- [CFE de l'artisan](https://logicielbatimentartisan.fr/fiscalite/cfe-artisan/): Exonéré s'il travaille seul, sinon réduite
 - [Mentions obligatoires d'une facture](https://logicielbatimentartisan.fr/fiscalite/mentions-obligatoires-facture/): Celles du bâtiment et les 4 nouvelles de 2027
 - [Facture électronique obligatoire](https://logicielbatimentartisan.fr/fiscalite/facture-electronique-obligatoire/): Recevoir en 2026, émettre en 2027
 
@@ -130,9 +135,14 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Devis obligatoire](https://logicielbatimentartisan.fr/entreprise/devis-obligatoire/): Pour quels travaux, et ce qu'il doit dire
 - [Carte BTP](https://logicielbatimentartisan.fr/entreprise/carte-btp/): Qui la demande, combien elle coûte, le risque
 
+### Aides
+
+- [Éco-PTZ](https://logicielbatimentartisan.fr/aides/eco-ptz/): Ce que fait l'artisan : RGE, devis, formulaire
+
 ### Démarches
 
 - [Attestation Consuel](https://logicielbatimentartisan.fr/demarches/attestation-consuel/): Quand elle est obligatoire et laquelle choisir
+- [Déclaration préalable de travaux](https://logicielbatimentartisan.fr/demarches/declaration-prealable-travaux/): Les chantiers concernés et quand commencer
 - [Entretien de chaudière obligatoire](https://logicielbatimentartisan.fr/demarches/entretien-chaudiere/): Ce que mesure le chauffagiste et l'attestation
 
 ### Normes
