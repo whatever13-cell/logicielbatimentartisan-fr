@@ -134,6 +134,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Salaire peintre en bâtiment](https://logicielbatimentartisan.fr/prix/salaire-peintre-batiment/): Le minimum selon le diplôme et la région
 - [Prix d'une pompe à chaleur](https://logicielbatimentartisan.fr/prix/prix-pompe-a-chaleur/): Air/eau, air/air, géothermie, et les aides 2026
 - [Prix d'une climatisation](https://logicielbatimentartisan.fr/prix/prix-climatisation/): Réversible ou non : prix, TVA et aides
+- [Prix des panneaux solaires](https://logicielbatimentartisan.fr/prix/prix-panneaux-solaires/): Par kWc, TVA comprise, sans la prime supprimée
 - [Prix d'un poêle à granulés](https://logicielbatimentartisan.fr/prix/prix-poele-a-granules/): Appareil, pose, conduit, et les aides de 2026
 - [Prix d'une chaudière gaz](https://logicielbatimentartisan.fr/prix/prix-chaudiere-gaz/): 2 000 à 4 000 €, TVA à 20 % et plus d'aide
 - [Prix d'une chaudière à granulés](https://logicielbatimentartisan.fr/prix/prix-chaudiere-granules/): 7 300 à 16 000 € HT, pose et aides 2026
@@ -254,6 +255,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 ### Pannes
 
 - [F28 Saunier Duval](https://logicielbatimentartisan.fr/pannes/f28-saunier-duval/): Défaut d'allumage : les réarmements et ce que vérifie le technicien
+- [Codes erreur Daikin](https://logicielbatimentartisan.fr/pannes/code-erreur-daikin/): U4, A5, E7… la table du manuel et comment la lire
 - [Codes erreur Chaffoteaux](https://logicielbatimentartisan.fr/pannes/code-erreur-chaffoteaux/): 501, 108, 304… la table de la notice
 - [Codes erreur De Dietrich](https://logicielbatimentartisan.fr/pannes/code-erreur-de-dietrich/): A, H ou E : avertissement, blocage ou verrouillage
 
