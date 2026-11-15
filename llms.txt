@@ -132,6 +132,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [CFE de l'artisan](https://logicielbatimentartisan.fr/fiscalite/cfe-artisan/): Exonéré s'il travaille seul, sinon réduite
 - [Mentions obligatoires d'une facture](https://logicielbatimentartisan.fr/fiscalite/mentions-obligatoires-facture/): Celles du bâtiment et les 4 nouvelles de 2027
 - [Facture électronique obligatoire](https://logicielbatimentartisan.fr/fiscalite/facture-electronique-obligatoire/): Recevoir en 2026, émettre en 2027
+- [Versement libératoire](https://logicielbatimentartisan.fr/fiscalite/versement-liberatoire/): Y ai-je droit, combien, jusqu'à quand
 
 ### Entreprise
 
@@ -151,6 +152,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 - [Attestation Consuel](https://logicielbatimentartisan.fr/demarches/attestation-consuel/): Quand elle est obligatoire et laquelle choisir
 - [Déclaration préalable de travaux](https://logicielbatimentartisan.fr/demarches/declaration-prealable-travaux/): Les chantiers concernés et quand commencer
+- [DT-DICT](https://logicielbatimentartisan.fr/demarches/dict-dt/): Qui déclare, les délais, quand renouveler
 - [Entretien de chaudière obligatoire](https://logicielbatimentartisan.fr/demarches/entretien-chaudiere/): Ce que mesure le chauffagiste et l'attestation
 
 ### Normes
