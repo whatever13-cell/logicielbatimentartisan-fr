@@ -112,7 +112,31 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 ### Prix
 
 - [Taux horaire de l'artisan](https://logicielbatimentartisan.fr/prix/taux-horaire-artisan/): Ton prix minimum avec tes vraies charges
+- [Salaire plombier](https://logicielbatimentartisan.fr/prix/salaire-plombier/): Le minimum selon le diplôme et la région
+- [Salaire électricien](https://logicielbatimentartisan.fr/prix/salaire-electricien/): Le minimum selon le diplôme et la région
+- [Salaire maçon](https://logicielbatimentartisan.fr/prix/salaire-macon/): Le minimum selon le diplôme et la région
+- [Salaire menuisier](https://logicielbatimentartisan.fr/prix/salaire-menuisier/): Le minimum selon le diplôme et la région
+- [Salaire couvreur](https://logicielbatimentartisan.fr/prix/salaire-couvreur/): Le minimum selon le diplôme et la région
+- [Salaire carreleur](https://logicielbatimentartisan.fr/prix/salaire-carreleur/): Le minimum selon le diplôme et la région
+- [Salaire peintre en bâtiment](https://logicielbatimentartisan.fr/prix/salaire-peintre-batiment/): Le minimum selon le diplôme et la région
 - [Index BT01](https://logicielbatimentartisan.fr/prix/indice-bt01/): La valeur 2026 et la révision de ton prix
+
+### Conventions
+
+- [Toutes les régions](https://logicielbatimentartisan.fr/conventions/salaires-minima-batiment-ouvriers/): Les 13 grilles et le Smic de juin 2026
+- [Île-de-France](https://logicielbatimentartisan.fr/conventions/ile-de-france/): Grille 5 novembre 2025
+- [Auvergne-Rhône-Alpes](https://logicielbatimentartisan.fr/conventions/auvergne-rhone-alpes/): Grille 14 janvier 2026
+- [Nouvelle-Aquitaine](https://logicielbatimentartisan.fr/conventions/nouvelle-aquitaine/): Grille 22 octobre 2025
+- [Occitanie](https://logicielbatimentartisan.fr/conventions/occitanie/): Grille 13 février 2026
+- [Provence-Alpes-Côte d'Azur](https://logicielbatimentartisan.fr/conventions/provence-alpes-cote-d-azur/): Grille 6 juillet 2026
+- [Grand Est](https://logicielbatimentartisan.fr/conventions/grand-est/): Grille 16 janvier 2025
+- [Hauts-de-France](https://logicielbatimentartisan.fr/conventions/hauts-de-france/): Grille 1er décembre 2025
+- [Bretagne](https://logicielbatimentartisan.fr/conventions/bretagne/): Grille 27 novembre 2025
+- [Pays de la Loire](https://logicielbatimentartisan.fr/conventions/pays-de-la-loire/): Grille 7 novembre 2025
+- [Normandie](https://logicielbatimentartisan.fr/conventions/normandie/): Grille 10 février 2026
+- [Bourgogne-Franche-Comté](https://logicielbatimentartisan.fr/conventions/bourgogne-franche-comte/): Grille 30 avril 2026
+- [Centre-Val de Loire](https://logicielbatimentartisan.fr/conventions/centre-val-de-loire/): Grille 10 avril 2026
+- [Corse](https://logicielbatimentartisan.fr/conventions/corse/): Grille 15 décembre 2025
 
 ### Modèles
 
