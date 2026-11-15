@@ -118,16 +118,22 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 - [TVA à 10 % et 5,5 % dans les travaux](https://logicielbatimentartisan.fr/fiscalite/tva-travaux-10-5-5/): Quel taux pour quel chantier, et l'attestation
 - [Autoliquidation de la TVA](https://logicielbatimentartisan.fr/fiscalite/autoliquidation-tva-sous-traitance/): Le sous-traitant facture HT, avec la mention
+- [TVA de l'auto-entrepreneur](https://logicielbatimentartisan.fr/fiscalite/tva-auto-entrepreneur/): Seuils 2026 : 37 500 € et 41 250 €
+- [Plafond micro-entreprise 2026](https://logicielbatimentartisan.fr/fiscalite/plafond-micro-entreprise/): 83 600 € en services, 203 100 € en vente
 - [Mentions obligatoires d'une facture](https://logicielbatimentartisan.fr/fiscalite/mentions-obligatoires-facture/): Celles du bâtiment et les 4 nouvelles de 2027
 - [Facture électronique obligatoire](https://logicielbatimentartisan.fr/fiscalite/facture-electronique-obligatoire/): Recevoir en 2026, émettre en 2027
 
 ### Entreprise
 
 - [Garantie décennale](https://logicielbatimentartisan.fr/entreprise/garantie-decennale/): Qui la doit, ce qu'elle couvre et jusqu'à quand
+- [Injonction de payer](https://logicielbatimentartisan.fr/entreprise/injonction-de-payer/): Récupérer une facture impayée, sans avocat
+- [Devis obligatoire](https://logicielbatimentartisan.fr/entreprise/devis-obligatoire/): Pour quels travaux, et ce qu'il doit dire
+- [Carte BTP](https://logicielbatimentartisan.fr/entreprise/carte-btp/): Qui la demande, combien elle coûte, le risque
 
 ### Démarches
 
 - [Attestation Consuel](https://logicielbatimentartisan.fr/demarches/attestation-consuel/): Quand elle est obligatoire et laquelle choisir
+- [Entretien de chaudière obligatoire](https://logicielbatimentartisan.fr/demarches/entretien-chaudiere/): Ce que mesure le chauffagiste et l'attestation
 
 ### Normes
 
