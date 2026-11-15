@@ -107,7 +107,16 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 ### Logiciels
 
 - [Avantium](https://logicielbatimentartisan.fr/logiciels/avantium/): L'application pour artisans : ce qu'elle fait et son prix
+- [Obat : prix](https://logicielbatimentartisan.fr/logiciels/prix-obat/): Les 3 offres, les 3 profils et la licence en plus
+- [Tolteck : prix](https://logicielbatimentartisan.fr/logiciels/prix-tolteck/): Une seule offre, mensuelle ou annuelle
+- [Costructor : prix](https://logicielbatimentartisan.fr/logiciels/prix-costructor/): Starter gratuit, Pro, Business+ et Premium
+- [Batappli : prix](https://logicielbatimentartisan.fr/logiciels/prix-batappli/): Devis ou Artisan, et les options qui s'ajoutent
+- [EBP Bâtiment : prix et versions](https://logicielbatimentartisan.fr/logiciels/prix-ebp-batiment/): PRO ou ELITE, et pourquoi le prix est sur devis
+- [Henrri](https://logicielbatimentartisan.fr/logiciels/henrri/): Ce qui est gratuit, et ce qui passe en payant
+- [Logiciel de facturation gratuit](https://logicielbatimentartisan.fr/logiciels/logiciel-facturation-gratuit/): Henrri, Abby, Costructor : où s'arrête le gratuit
+- [Plateformes agréées](https://logicielbatimentartisan.fr/logiciels/plateformes-agreees-facture-electronique/): La liste officielle, avec un moteur de recherche
 - [Chorus Pro pour l'artisan](https://logicielbatimentartisan.fr/logiciels/chorus-pro-artisan/): Facturer une mairie et se faire payer à temps
+- [Logiciel de métré](https://logicielbatimentartisan.fr/logiciels/logiciel-metre-batiment/): Le métré d'une pièce, sans logiciel
 
 ### Prix
 
