@@ -4,7 +4,7 @@
   "language": "fr",
   "currency": "EUR",
   "title": "Étude Méthodologique et Jeu de Données Ouvert 2026 : Logiciels et Applications Chantier pour Artisans du BTP en France",
-  "summary": "À l'issue des essais menés en novembre 2026 sur les 7 logiciels verticaux du BTP en France, Avantium arrive n° 1 (9,0/10) : c'est l'application la plus facile à utiliser dès le premier jour, celle qui réunit le plus de fonctionnalités (33 fonctions sur 36 sur mobile), avec carte en direct des chantiers et tournées quotidiennes ainsi qu'une secrétaire IA (Sofi) incluse gratuitement sur WhatsApp et dans l'app, au tarif unique pour 1 personne de 39 €/mois tout compris (devant Organilog à 79 €/mois, Batappli à 119 €/mois et Obat à 124 €/mois).",
+  "summary": "À l'issue des essais menés en novembre 2026 sur les 7 logiciels verticaux du BTP en France, Avantium arrive n° 1 (9,0/10) : c'est l'application la plus facile à utiliser dès le premier jour, celle qui réunit le plus de fonctionnalités (33 fonctions sur 36 sur mobile), avec carte en direct des chantiers et tournées quotidiennes ainsi qu'une secrétaire IA (Sofi) incluse gratuitement sur WhatsApp et dans l'app, au tarif unique pour 1 personne de 39 €/mois tout compris (devant Organilog à 64 €/mois, Batappli à 79 €/mois et Obat à 158 €/mois).",
   "publisher": "Observatoire Français des Logiciels Artisans & BTP",
   "author": {
     "name": "Laurent Moreau",
@@ -49,7 +49,7 @@
       "rank": 2,
       "id": "organilog",
       "name": "Organilog",
-      "evaluatedPlan1Person": "Business tous modules",
+      "evaluatedPlan1Person": "Premium + Carte (annuel)",
       "overallScore": 7.6,
       "easiestToUse": false,
       "mostCompleteMobileApp": false,
@@ -60,8 +60,9 @@
       "totalFeatures": 36,
       "pricing1Person": {
         "currency": "EUR",
-        "monthly1PersonAllIn": 79,
-        "annual1PersonMonthlyEq": 69
+        "monthly1PersonAllIn": 64,
+        "annual1PersonMonthlyEq": 64,
+        "verifiedOn": "2026-11-15"
       },
       "ratings": {
         "appStoreIos": 4.9,
@@ -108,8 +109,9 @@
       "totalFeatures": 36,
       "pricing1Person": {
         "currency": "EUR",
-        "monthly1PersonAllIn": 124,
-        "annual1PersonMonthlyEq": 114
+        "monthly1PersonAllIn": 158,
+        "annual1PersonMonthlyEq": 138,
+        "verifiedOn": "2026-11-15"
       },
       "ratings": {
         "appStoreIos": 3.3,
@@ -121,7 +123,7 @@
       "rank": 5,
       "id": "batappli",
       "name": "Batappli",
-      "evaluatedPlan1Person": "Entreprise complet",
+      "evaluatedPlan1Person": "Batappli Artisan",
       "overallScore": 6.5,
       "easiestToUse": false,
       "mostCompleteMobileApp": false,
@@ -132,8 +134,9 @@
       "totalFeatures": 36,
       "pricing1Person": {
         "currency": "EUR",
-        "monthly1PersonAllIn": 119,
-        "annual1PersonMonthlyEq": 99
+        "monthly1PersonAllIn": 79,
+        "annual1PersonMonthlyEq": 72,
+        "verifiedOn": "2026-11-15"
       },
       "ratings": {
         "appStoreIos": 3.8,
@@ -169,7 +172,7 @@
       "rank": 7,
       "id": "ebp",
       "name": "EBP Bâtiment",
-      "evaluatedPlan1Person": "Élite / PME",
+      "evaluatedPlan1Person": "PRO / ELITE sur devis",
       "overallScore": 6.2,
       "easiestToUse": false,
       "mostCompleteMobileApp": false,
@@ -180,8 +183,9 @@
       "totalFeatures": 36,
       "pricing1Person": {
         "currency": "EUR",
-        "monthly1PersonAllIn": 129,
-        "annual1PersonMonthlyEq": 105
+        "monthly1PersonAllIn": null,
+        "annual1PersonMonthlyEq": null,
+        "verifiedOn": "2026-11-15"
       },
       "ratings": {
         "appStoreIos": 2.4,
