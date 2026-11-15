@@ -116,8 +116,17 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 ### Modèles
 
+- [Modèle de devis](https://logicielbatimentartisan.fr/modeles/devis/): Word et Excel, avec le formulaire de rétractation
+- [Modèle de facture](https://logicielbatimentartisan.fr/modeles/facture/): Word et Excel, et jusqu'à quand il vaut
+- [Facture d'auto-entrepreneur](https://logicielbatimentartisan.fr/modeles/facture-auto-entrepreneur/): Sans TVA, avec la mention 293 B, en Word et Excel
+- [Facture d'acompte](https://logicielbatimentartisan.fr/modeles/facture-acompte/): La TVA de l'acompte et la facture de solde
+- [Bon d'intervention](https://logicielbatimentartisan.fr/modeles/bon-intervention/): La fiche signée sur place, en Word
 - [Procès-verbal de réception](https://logicielbatimentartisan.fr/modeles/proces-verbal-reception-travaux/): Avec ou sans réserves, et les dates qu'il fixe
+- [Attestation TVA 10 % et 5,5 %](https://logicielbatimentartisan.fr/modeles/attestation-tva-simplifiee/): Remplacée par une mention : le texte à copier
+- [Contrat de sous-traitance](https://logicielbatimentartisan.fr/modeles/contrat-sous-traitance/): Acceptation, caution et action directe
+- [Situation de travaux](https://logicielbatimentartisan.fr/modeles/situation-de-travaux/): L'Excel qui calcule la facture du mois
 - [Mise en demeure : facture impayée](https://logicielbatimentartisan.fr/modeles/mise-en-demeure-facture-impayee/): La lettre, avec les pénalités calculées
+- [Bon de commande](https://logicielbatimentartisan.fr/modeles/bon-de-commande/): Signé chez le client : les mentions et les 7 jours
 
 ### Calculateurs
 
