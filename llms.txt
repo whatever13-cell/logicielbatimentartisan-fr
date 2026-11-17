@@ -127,6 +127,11 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Index BT01](https://logicielbatimentartisan.fr/prix/indice-bt01/): La valeur 2026 et la révision de ton prix
 - [Prix d'un chauffe-eau thermodynamique](https://logicielbatimentartisan.fr/prix/prix-chauffe-eau-thermodynamique/): L'appareil, la pose et la TVA à 5,5 %
 - [Prix d'une fenêtre PVC posée](https://logicielbatimentartisan.fr/prix/prix-fenetre-pvc/): Par taille, en remplacement ou en création
+- [Taux horaire électricien](https://logicielbatimentartisan.fr/prix/taux-horaire-electricien/): Le prix minimum et le salaire minimum
+- [Taux horaire maçon](https://logicielbatimentartisan.fr/prix/taux-horaire-macon/): Le prix minimum et le salaire minimum
+- [Taux horaire paysagiste](https://logicielbatimentartisan.fr/prix/taux-horaire-paysagiste/): Le prix minimum et le salaire minimum
+- [Taux horaire peintre](https://logicielbatimentartisan.fr/prix/taux-horaire-peintre/): Le prix minimum et le salaire minimum
+- [Taux horaire plombier](https://logicielbatimentartisan.fr/prix/taux-horaire-plombier/): Le prix minimum et le salaire minimum
 
 ### Conventions
 
