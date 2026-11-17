@@ -149,7 +149,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Bourgogne-Franche-Comté](https://logicielbatimentartisan.fr/conventions/bourgogne-franche-comte/): Grille 30 avril 2026
 - [Centre-Val de Loire](https://logicielbatimentartisan.fr/conventions/centre-val-de-loire/): Grille 10 avril 2026
 - [Corse](https://logicielbatimentartisan.fr/conventions/corse/): Grille 15 décembre 2025
-- [Convention collective du bâtiment](https://logicielbatimentartisan.fr/conventions/convention-collective-batiment/): Laquelle s'applique à votre salarié
+- [Convention collective du bâtiment](https://logicielbatimentartisan.fr/conventions/convention-collective-batiment/): Laquelle s'applique à ton salarié
 
 ### Modèles
 
@@ -274,7 +274,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [CAP électricien](https://logicielbatimentartisan.fr/formation/cap-electricien/): La fiche RNCP38401, bloc par bloc
 - [CAP plombier](https://logicielbatimentartisan.fr/formation/cap-plombier/): Le CAP monteur en installations sanitaires
 - [Devenir électricien](https://logicielbatimentartisan.fr/formation/devenir-electricien/): Diplôme, habilitation et installation
-- [Devenir plombier](https://logicielbatimentartisan.fr/formation/devenir-plombier/): Diplôme, gaz et fluides selon ce que vous faites
+- [Devenir plombier](https://logicielbatimentartisan.fr/formation/devenir-plombier/): Diplôme, gaz et fluides selon ce que tu fais
 - [Travail en hauteur](https://logicielbatimentartisan.fr/formation/travail-en-hauteur/): Garde-corps, échelle, harnais : la règle et la formation
 - [Attestation fluides frigorigènes](https://logicielbatimentartisan.fr/formation/attestation-capacite-fluides/): Les nouvelles catégories au 1er janvier 2027
 - [Formation amiante SS4](https://logicielbatimentartisan.fr/formation/formation-amiante-ss4/): Durées minimales et recyclage tous les 3 ans

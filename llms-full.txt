@@ -116,7 +116,7 @@ Avec 1 utilisateur et l'offre complète sans rabot, ça va de 39 €/mois chez A
 La réforme de la facture électronique est en place : depuis le 1er septembre 2026, toute entreprise doit pouvoir recevoir des factures électroniques, et les PME et micro-entreprises devront les émettre à partir du 1er septembre 2027, via une plateforme agréée (Factur-X). Les 7 logiciels testés préparent ces factures et transforment en une touche le devis accepté ou le bon d'intervention en facture.
 
 ### Dans quels cas conseillons-nous un autre logiciel que le gagnant ?
-Dans trois cas hors d'une entreprise de 1 à 30 personnes : si vous recevez des métrés ou DPGF de l'architecte (Batappli), si vous avez un magasin avec lecteur de code-barres (Organilog) ou si un comptable salarié tient la partie double (EBP Bâtiment).
+Dans trois cas hors d'une entreprise de 1 à 30 personnes : si tu reçois des métrés ou DPGF de l'architecte (Batappli), si tu as un magasin avec lecteur de code-barres (Organilog) ou si un comptable salarié tient la partie double (EBP Bâtiment).
 
 ## Comparatifs 2026 et alternatives (prix tout compris pour 1 personne)
 - À retenir : Avantium arrive n° 1 (9,0/10), à 39 €/mois pour 1 personne tout compris.
