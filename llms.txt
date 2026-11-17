@@ -164,6 +164,27 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Mise en demeure : facture impayée](https://logicielbatimentartisan.fr/modeles/mise-en-demeure-facture-impayee/): La lettre, avec les pénalités calculées
 - [Bon de commande](https://logicielbatimentartisan.fr/modeles/bon-de-commande/): Signé chez le client : les mentions et les 7 jours
 - [DOE](https://logicielbatimentartisan.fr/modeles/doe/): Ce qu'il contient, quand le remettre
+- [Devis carreleur](https://logicielbatimentartisan.fr/modeles/carreleur/): Word et Excel, avec les lignes du métier
+- [Devis climaticien](https://logicielbatimentartisan.fr/modeles/climatisation-pac/): Word et Excel, avec les lignes du métier
+- [Devis couvreur](https://logicielbatimentartisan.fr/modeles/couvreur/): Word et Excel, avec les lignes du métier
+- [Devis déménageur](https://logicielbatimentartisan.fr/modeles/demenageur/): Word et Excel, avec les lignes du métier
+- [Devis dépanneur d'électroménager](https://logicielbatimentartisan.fr/modeles/depannage-electromenager/): Word et Excel, avec les lignes du métier
+- [Devis entreprise de dératisation](https://logicielbatimentartisan.fr/modeles/deratisation-nuisibles/): Word et Excel, avec les lignes du métier
+- [Devis électricien](https://logicielbatimentartisan.fr/modeles/electricien/): Word et Excel, avec les lignes du métier
+- [Devis entreprise de nettoyage](https://logicielbatimentartisan.fr/modeles/entreprise-nettoyage/): Word et Excel, avec les lignes du métier
+- [Devis maçon](https://logicielbatimentartisan.fr/modeles/macon-gros-oeuvre/): Word et Excel, avec les lignes du métier
+- [Devis menuisier](https://logicielbatimentartisan.fr/modeles/menuisier/): Word et Excel, avec les lignes du métier
+- [Devis entreprise multiservice](https://logicielbatimentartisan.fr/modeles/multiservice-copropriete/): Word et Excel, avec les lignes du métier
+- [Devis installateur photovoltaïque](https://logicielbatimentartisan.fr/modeles/panneaux-solaires/): Word et Excel, avec les lignes du métier
+- [Devis paysagiste](https://logicielbatimentartisan.fr/modeles/paysagiste-jardinier/): Word et Excel, avec les lignes du métier
+- [Devis peintre](https://logicielbatimentartisan.fr/modeles/peintre-batiment/): Word et Excel, avec les lignes du métier
+- [Devis pisciniste](https://logicielbatimentartisan.fr/modeles/pisciniste/): Word et Excel, avec les lignes du métier
+- [Devis plaquiste](https://logicielbatimentartisan.fr/modeles/plaquiste/): Word et Excel, avec les lignes du métier
+- [Devis plombier-chauffagiste](https://logicielbatimentartisan.fr/modeles/plombier-chauffagiste/): Word et Excel, avec les lignes du métier
+- [Devis installateur de portails](https://logicielbatimentartisan.fr/modeles/portails-automatismes/): Word et Excel, avec les lignes du métier
+- [Devis entreprise de rénovation](https://logicielbatimentartisan.fr/modeles/renovation-tce/): Word et Excel, avec les lignes du métier
+- [Devis serrurier](https://logicielbatimentartisan.fr/modeles/serrurier-metallier/): Word et Excel, avec les lignes du métier
+- [Devis vitrier](https://logicielbatimentartisan.fr/modeles/vitrier-miroitier/): Word et Excel, avec les lignes du métier
 
 ### Calculateurs
 
