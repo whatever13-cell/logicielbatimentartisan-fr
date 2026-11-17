@@ -149,6 +149,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Bourgogne-Franche-Comté](https://logicielbatimentartisan.fr/conventions/bourgogne-franche-comte/): Grille 30 avril 2026
 - [Centre-Val de Loire](https://logicielbatimentartisan.fr/conventions/centre-val-de-loire/): Grille 10 avril 2026
 - [Corse](https://logicielbatimentartisan.fr/conventions/corse/): Grille 15 décembre 2025
+- [Convention collective du bâtiment](https://logicielbatimentartisan.fr/conventions/convention-collective-batiment/): Laquelle s'applique à votre salarié
 
 ### Modèles
 
@@ -191,10 +192,13 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Carte BTP](https://logicielbatimentartisan.fr/entreprise/carte-btp/): Qui la demande, combien elle coûte, le risque
 - [Qualibat](https://logicielbatimentartisan.fr/entreprise/qualibat/): Critères, probatoire, calendrier et prix
 - [Acompte ou arrhes sur un devis](https://logicielbatimentartisan.fr/entreprise/acompte-devis/): Ce que devient l'argent si l'un renonce
+- [Auto-entrepreneur dans le bâtiment](https://logicielbatimentartisan.fr/entreprise/auto-entrepreneur-batiment/): Les obligations propres au BTP
 - [CIBTP et congés payés](https://logicielbatimentartisan.fr/entreprise/cibtp-conges-payes/): Quelle caisse, ce qu'elle fait
+- [Délai de paiement d'une facture](https://logicielbatimentartisan.fr/entreprise/delai-paiement-facture/): Pro ou particulier, et quand relancer
 - [PRO BTP](https://logicielbatimentartisan.fr/entreprise/pro-btp/): Ce que l'artisan doit savoir
 - [Qualifelec](https://logicielbatimentartisan.fr/entreprise/qualifelec/): Quand elle est obligatoire
 - [QualiPAC](https://logicielbatimentartisan.fr/entreprise/qualipac/): La qualification RGE des pompes à chaleur
+- [Sous-traitance BTP](https://logicielbatimentartisan.fr/entreprise/sous-traitance-btp/): Être payé à coup sûr
 
 ### Aides
 
