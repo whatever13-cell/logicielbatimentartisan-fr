@@ -102,6 +102,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Gestion BTP](https://logicielbatimentartisan.fr/logiciels/logiciel-gestion-btp/): Les 7 logiciels comparés
 - [Planning de chantier](https://logicielbatimentartisan.fr/logiciels/logiciel-planning-chantier/): Les 7 logiciels comparés
 - [Suivi de chantier](https://logicielbatimentartisan.fr/logiciels/logiciel-suivi-de-chantier/): Les 7 logiciels comparés
+- [Extrabat : prix](https://logicielbatimentartisan.fr/logiciels/prix-extrabat/): Éco, Standard et Premium
 - [Situations de travaux](https://logicielbatimentartisan.fr/modeles/situation-de-travaux/): Les logiciels qui les font
 - [Alternatives à Organilog](https://logicielbatimentartisan.fr/alternatives-organilog-2026/): Les logiciels à comparer
 
@@ -156,6 +157,7 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Contrat de sous-traitance](https://logicielbatimentartisan.fr/modeles/contrat-sous-traitance/): Acceptation, caution et action directe
 - [Mise en demeure : facture impayée](https://logicielbatimentartisan.fr/modeles/mise-en-demeure-facture-impayee/): La lettre, avec les pénalités calculées
 - [Bon de commande](https://logicielbatimentartisan.fr/modeles/bon-de-commande/): Signé chez le client : les mentions et les 7 jours
+- [DOE](https://logicielbatimentartisan.fr/modeles/doe/): Ce qu'il contient, quand le remettre
 
 ### Calculateurs
 
@@ -186,6 +188,8 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Acompte ou arrhes sur un devis](https://logicielbatimentartisan.fr/entreprise/acompte-devis/): Ce que devient l'argent si l'un renonce
 - [CIBTP et congés payés](https://logicielbatimentartisan.fr/entreprise/cibtp-conges-payes/): Quelle caisse, ce qu'elle fait
 - [PRO BTP](https://logicielbatimentartisan.fr/entreprise/pro-btp/): Ce que l'artisan doit savoir
+- [Qualifelec](https://logicielbatimentartisan.fr/entreprise/qualifelec/): Quand elle est obligatoire
+- [QualiPAC](https://logicielbatimentartisan.fr/entreprise/qualipac/): La qualification RGE des pompes à chaleur
 
 ### Aides
 
