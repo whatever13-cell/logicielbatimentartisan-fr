@@ -116,17 +116,12 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Salaire couvreur](https://logicielbatimentartisan.fr/prix/salaire-couvreur/): Le minimum selon le diplôme et la région
 - [Salaire carreleur](https://logicielbatimentartisan.fr/prix/salaire-carreleur/): Le minimum selon le diplôme et la région
 - [Salaire peintre en bâtiment](https://logicielbatimentartisan.fr/prix/salaire-peintre-batiment/): Le minimum selon le diplôme et la région
-- [Prix d'une pompe à chaleur](https://logicielbatimentartisan.fr/prix/prix-pompe-a-chaleur/): Air/eau, air/air, géothermie, et les aides 2026
-- [Prix d'une climatisation](https://logicielbatimentartisan.fr/prix/prix-climatisation/): Réversible ou non : prix, TVA et aides
-- [Prix des panneaux solaires](https://logicielbatimentartisan.fr/prix/prix-panneaux-solaires/): Par kWc, TVA comprise, sans la prime supprimée
-- [Prix d'un poêle à granulés](https://logicielbatimentartisan.fr/prix/prix-poele-a-granules/): Appareil, pose, conduit, et les aides de 2026
-- [Prix d'une chaudière gaz](https://logicielbatimentartisan.fr/prix/prix-chaudiere-gaz/): 2 000 à 4 000 €, TVA à 20 % et plus d'aide
-- [Prix de l'isolation des combles](https://logicielbatimentartisan.fr/prix/prix-isolation-combles/): Perdus ou aménagés, au m², pose comprise
-- [Prix de l'isolation par l'extérieur](https://logicielbatimentartisan.fr/prix/prix-isolation-exterieure/): Sous enduit ou sous bardage, au m²
-- [Prix d'une chaudière à granulés](https://logicielbatimentartisan.fr/prix/prix-chaudiere-granules/): 7 300 à 16 000 € HT, pose et aides 2026
+- [Prix d'une pompe à chaleur](https://logicielbatimentartisan.fr/modeles/climatisation-pac/): Air/eau, air/air, géothermie, et les aides 2026
+- [Prix des panneaux solaires](https://logicielbatimentartisan.fr/modeles/panneaux-solaires/): Par kWc, TVA comprise, sans la prime supprimée
+- [Prix d'un poêle à granulés](https://logicielbatimentartisan.fr/modeles/plombier-chauffagiste/): Appareil, pose, conduit, et les aides de 2026
+- [Prix de l'isolation des combles](https://logicielbatimentartisan.fr/modeles/renovation-tce/): Perdus ou aménagés, au m², pose comprise
 - [Index BT01](https://logicielbatimentartisan.fr/prix/indice-bt01/): La valeur 2026 et la révision de ton prix
-- [Prix d'un chauffe-eau thermodynamique](https://logicielbatimentartisan.fr/prix/prix-chauffe-eau-thermodynamique/): L'appareil, la pose et la TVA à 5,5 %
-- [Prix d'une fenêtre PVC posée](https://logicielbatimentartisan.fr/prix/prix-fenetre-pvc/): Par taille, en remplacement ou en création
+- [Prix d'une fenêtre PVC posée](https://logicielbatimentartisan.fr/modeles/menuisier/): Par taille, en remplacement ou en création
 - [Taux horaire électricien](https://logicielbatimentartisan.fr/prix/taux-horaire-electricien/): Le prix minimum et le salaire minimum
 - [Taux horaire maçon](https://logicielbatimentartisan.fr/prix/taux-horaire-macon/): Le prix minimum et le salaire minimum
 - [Taux horaire paysagiste](https://logicielbatimentartisan.fr/prix/taux-horaire-paysagiste/): Le prix minimum et le salaire minimum
@@ -165,7 +160,6 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Bon de commande](https://logicielbatimentartisan.fr/modeles/bon-de-commande/): Signé chez le client : les mentions et les 7 jours
 - [DOE](https://logicielbatimentartisan.fr/modeles/doe/): Ce qu'il contient, quand le remettre
 - [Devis carreleur](https://logicielbatimentartisan.fr/modeles/carreleur/): Word et Excel, avec les lignes du métier
-- [Devis climaticien](https://logicielbatimentartisan.fr/modeles/climatisation-pac/): Word et Excel, avec les lignes du métier
 - [Devis couvreur](https://logicielbatimentartisan.fr/modeles/couvreur/): Word et Excel, avec les lignes du métier
 - [Devis déménageur](https://logicielbatimentartisan.fr/modeles/demenageur/): Word et Excel, avec les lignes du métier
 - [Devis dépanneur d'électroménager](https://logicielbatimentartisan.fr/modeles/depannage-electromenager/): Word et Excel, avec les lignes du métier
@@ -173,16 +167,12 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Devis électricien](https://logicielbatimentartisan.fr/modeles/electricien/): Word et Excel, avec les lignes du métier
 - [Devis entreprise de nettoyage](https://logicielbatimentartisan.fr/modeles/entreprise-nettoyage/): Word et Excel, avec les lignes du métier
 - [Devis maçon](https://logicielbatimentartisan.fr/modeles/macon-gros-oeuvre/): Word et Excel, avec les lignes du métier
-- [Devis menuisier](https://logicielbatimentartisan.fr/modeles/menuisier/): Word et Excel, avec les lignes du métier
 - [Devis entreprise multiservice](https://logicielbatimentartisan.fr/modeles/multiservice-copropriete/): Word et Excel, avec les lignes du métier
-- [Devis installateur photovoltaïque](https://logicielbatimentartisan.fr/modeles/panneaux-solaires/): Word et Excel, avec les lignes du métier
 - [Devis paysagiste](https://logicielbatimentartisan.fr/modeles/paysagiste-jardinier/): Word et Excel, avec les lignes du métier
 - [Devis peintre](https://logicielbatimentartisan.fr/modeles/peintre-batiment/): Word et Excel, avec les lignes du métier
 - [Devis pisciniste](https://logicielbatimentartisan.fr/modeles/pisciniste/): Word et Excel, avec les lignes du métier
 - [Devis plaquiste](https://logicielbatimentartisan.fr/modeles/plaquiste/): Word et Excel, avec les lignes du métier
-- [Devis plombier-chauffagiste](https://logicielbatimentartisan.fr/modeles/plombier-chauffagiste/): Word et Excel, avec les lignes du métier
 - [Devis installateur de portails](https://logicielbatimentartisan.fr/modeles/portails-automatismes/): Word et Excel, avec les lignes du métier
-- [Devis entreprise de rénovation](https://logicielbatimentartisan.fr/modeles/renovation-tce/): Word et Excel, avec les lignes du métier
 - [Devis serrurier](https://logicielbatimentartisan.fr/modeles/serrurier-metallier/): Word et Excel, avec les lignes du métier
 - [Devis vitrier](https://logicielbatimentartisan.fr/modeles/vitrier-miroitier/): Word et Excel, avec les lignes du métier
 
@@ -223,23 +213,13 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 ### Aides
 
-- [MaPrimeRénov' 2026](https://logicielbatimentartisan.fr/aides/maprimerenov/): Ce qui reste par geste, et le rôle de l'artisan RGE
-- [Prime CEE](https://logicielbatimentartisan.fr/aides/cee-prime-energie/): L'ordre des dates et la prime déduite de la facture
-- [Éco-PTZ](https://logicielbatimentartisan.fr/aides/eco-ptz/): Ce que fait l'artisan : RGE, devis, formulaire
-- [Label RGE](https://logicielbatimentartisan.fr/aides/label-rge/): Le dossier à préparer, pièce par pièce
-- [Aides pompe à chaleur 2026](https://logicielbatimentartisan.fr/aides/aide-pompe-a-chaleur/): Toutes les aides additionnées, et le reste à payer
-- [Aides panneaux solaires 2026](https://logicielbatimentartisan.fr/aides/aide-panneaux-solaires/): Prime supprimée, TVA à 5,5 % et rachat à 1,1 ct
-- [MaPrimeAdapt'](https://logicielbatimentartisan.fr/aides/maprimeadapt/): 70 % ou 50 % des travaux, et le rôle de l'artisan
-- [Coup de pouce chauffage](https://logicielbatimentartisan.fr/aides/coup-de-pouce-chauffage/): Plus de montant fixe : la formule, et ce que dit la facture
+- [MaPrimeRénov' 2026](https://logicielbatimentartisan.fr/aides/label-rge/): Ce qui reste par geste, et le rôle de l'artisan RGE
 
 ### Démarches
 
 - [Attestation Consuel](https://logicielbatimentartisan.fr/demarches/attestation-consuel/): Quand elle est obligatoire et laquelle choisir
 - [Certificat de conformité gaz](https://logicielbatimentartisan.fr/demarches/certificat-conformite-gaz/): Qualigaz, Dekra, Copraudit : quand et comment
-- [Déclaration préalable de travaux](https://logicielbatimentartisan.fr/demarches/declaration-prealable-travaux/): Les chantiers concernés et quand commencer
 - [DT-DICT](https://logicielbatimentartisan.fr/demarches/dict-dt/): Qui déclare, les délais, quand renouveler
-- [Entretien de chaudière obligatoire](https://logicielbatimentartisan.fr/demarches/entretien-chaudiere/): Ce que mesure le chauffagiste et l'attestation
-- [Entretien clim et PAC](https://logicielbatimentartisan.fr/demarches/entretien-climatisation/): Tous les 2 ans de 4 à 70 kW, et l'attestation
 - [PPSPS](https://logicielbatimentartisan.fr/demarches/ppsps/): Quand il en faut un, le délai et le contenu
 - [Repérage amiante avant travaux](https://logicielbatimentartisan.fr/demarches/reperage-amiante-avant-travaux/): Qui le commande, et quand l'artisan peut commencer
 - [Fiche d'intervention fluides](https://logicielbatimentartisan.fr/demarches/fiche-intervention-fluides/): Le cerfa 15497*04 : qui signe, qui le garde
@@ -282,10 +262,6 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 ### Pannes
 
-- [F28 Saunier Duval](https://logicielbatimentartisan.fr/pannes/f28-saunier-duval/): Défaut d'allumage : les réarmements et ce que vérifie le technicien
-- [Codes erreur Daikin](https://logicielbatimentartisan.fr/pannes/code-erreur-daikin/): U4, A5, E7… la table du manuel et comment la lire
-- [Codes erreur Chaffoteaux](https://logicielbatimentartisan.fr/pannes/code-erreur-chaffoteaux/): 501, 108, 304… la table de la notice
-- [Codes erreur De Dietrich](https://logicielbatimentartisan.fr/pannes/code-erreur-de-dietrich/): A, H ou E : avertissement, blocage ou verrouillage
 
 ### Fournisseurs
 
