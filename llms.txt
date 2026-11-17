@@ -253,6 +253,18 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [RE2020](https://logicielbatimentartisan.fr/normes/re2020/): Ce qui change sur le chantier, et depuis mai 2026 l'atelier
 - [Garantie de parfait achèvement](https://logicielbatimentartisan.fr/normes/garantie-parfait-achevement/): 1 an, 2 ans, 10 ans : laquelle joue ?
 - [Réglementation des fluides frigorigènes](https://logicielbatimentartisan.fr/normes/fluides-frigorigenes/): Contrôles d'étanchéité et obligations
+- [NF DTU 13.3](https://logicielbatimentartisan.fr/normes/dtu-13-3/): Travaux de dallages – Conception, calcul et exécution
+- [NF DTU 20.1](https://logicielbatimentartisan.fr/normes/dtu-20-1/): Ouvrages en maçonnerie de petits éléments – Parois et murs
+- [NF DTU 24.1](https://logicielbatimentartisan.fr/normes/dtu-24-1/): Travaux de fumisterie – Installation de systèmes d'évacua…
+- [NF DTU 31.2](https://logicielbatimentartisan.fr/normes/dtu-31-2/): Construction de maisons et bâtiments à ossature en bois
+- [NF DTU 36.5](https://logicielbatimentartisan.fr/normes/dtu-36-5/): Mise en œuvre des fenêtres et portes extérieures
+- [DTU 40.35](https://logicielbatimentartisan.fr/normes/dtu-40-35/): Couverture en plaques nervurées issues de tôles d'acier r…
+- [DTU 43.1](https://logicielbatimentartisan.fr/normes/dtu-43-1/): Étanchéité des toitures-terrasses et toitures inclinées a…
+- [NF DTU 52.2](https://logicielbatimentartisan.fr/normes/dtu-52-2/): Pose collée des revêtements céramiques et assimilés – Pie…
+- [NF DTU 59.1](https://logicielbatimentartisan.fr/normes/dtu-59-1/): Revêtements de peinture en feuil mince, semi-épais ou épais
+- [NF DTU 60.1](https://logicielbatimentartisan.fr/normes/dtu-60-1/): Plomberie sanitaire pour bâtiments
+- [NF DTU 61.1](https://logicielbatimentartisan.fr/normes/dtu-61-1/): Installations de gaz dans les locaux d'habitation
+- [NF DTU 68.3](https://logicielbatimentartisan.fr/normes/dtu-68-3/): Installations de ventilation mécanique
 
 ### Formation
 
