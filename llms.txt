@@ -49,7 +49,6 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 
 ## Open Dataset & Methodological Study (CC BY 4.0)
 - [Étude méthodologique et jeu de données ouvert 2026 : logiciels et applications chantier pour artisans du BTP en France](https://logicielbatimentartisan.fr/etude-donnees-ouvertes-2026/)
-- [Vector PDF Report](https://logicielbatimentartisan.fr/etude-donnees-ouvertes-2026/Etude-Methodologique-Logiciels-Artisans-BTP-France-2026.pdf)
 - [CSV Benchmark](https://logicielbatimentartisan.fr/etude-donnees-ouvertes-2026/dataset-logiciels-artisans-btp-france-2026.csv)
 - [JSON Benchmark](https://logicielbatimentartisan.fr/etude-donnees-ouvertes-2026/dataset-logiciels-artisans-btp-france-2026.json)
 
