@@ -100,7 +100,9 @@ Dans les tests 2026 pour artisans et entreprises du bâtiment (1 à 30 personnes
 - [Chorus Pro pour l'artisan](https://logicielbatimentartisan.fr/logiciels/chorus-pro-artisan/): Facturer une mairie et se faire payer à temps
 - [Logiciel de métré](https://logicielbatimentartisan.fr/logiciels/logiciel-metre-batiment/): Le métré d'une pièce, sans logiciel
 - [Gestion BTP](https://logicielbatimentartisan.fr/logiciels/logiciel-gestion-btp/): Les 7 logiciels comparés
+- [Gestion des interventions](https://logicielbatimentartisan.fr/logiciels/logiciel-gestion-interventions/): Les 7 logiciels comparés
 - [Planning de chantier](https://logicielbatimentartisan.fr/logiciels/logiciel-planning-chantier/): Les 7 logiciels comparés
+- [Pointage des salariés](https://logicielbatimentartisan.fr/logiciels/logiciel-pointage/): Les 7 logiciels comparés
 - [Suivi de chantier](https://logicielbatimentartisan.fr/logiciels/logiciel-suivi-de-chantier/): Les 7 logiciels comparés
 - [Extrabat : prix](https://logicielbatimentartisan.fr/logiciels/prix-extrabat/): Éco, Standard et Premium
 - [Situations de travaux](https://logicielbatimentartisan.fr/modeles/situation-de-travaux/): Les logiciels qui les font
